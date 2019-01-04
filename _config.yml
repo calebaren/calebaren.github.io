@@ -22,8 +22,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: calebaren
 github_username: calebaren
 phone: (206) 849-5804
-address:
-  232 Pforzheimer House
+address: |
+  232 Pforzheimer House<br />
   Cambridge, MA 02138
 pages: # to change
   - index
