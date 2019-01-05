@@ -3,8 +3,10 @@
 	<header>
 		<h3>Need to get in touch?</h3>
 	</header>
-	<p>Urna nisl non quis interdum mus ornare ridiculus egestas ridiculus lobortis vivamus tempor aliquet.</p>
+	<p>Here are several convenient ways to reach me.</p>
 	<ul class="icons">
+		<!-- Email -->
+		<li><a href={{ site.email | prepend: "mailto:" }} class="icon fa-envelope"><span class="label">Email</span></a></li>
 		<!-- Twitter -->
 		<li><a href={{ site.twitter.url }} class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 		<!-- Facebook -->
@@ -17,13 +19,12 @@
 		<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
 		<!-- LinkedIn -->
 		<li><a href={{ site.linkedin.url }} class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
-
 	</ul>
 </section>
 
 <!-- Copyright -->
 <div class="copyright">
 	<ul class="menu">
-		<li>&copy; {{ site.name }} {{ site.time | date: "%Y" }}. All rights reserved.</li><li>Design: {{ site.name }}</li><li>Template: <a href="http://html5up.net">HTML5 UP</a></li>
+		<li>Design: {{ site.name }}</li><li>&copy; {{ site.name }} {{ site.time | date: "%Y" }}.&emsp;All rights reserved.</li><li>Template: <a href="http://html5up.net">HTML5 UP</a></li>
 	</ul>
 </div>
