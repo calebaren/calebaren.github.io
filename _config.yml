@@ -13,22 +13,41 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+name: Caleb Ren
 title: Caleb Ren
 email: calebaren@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Harvard student studying data science and computer science.
+  Harvard student studying statistics, data science and computer science.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: calebaren
-github_username: calebaren
+# =========================
+# ***** user accounts *****
+# =========================
+twitter: 
+  username: caleb_aren
+  url: https://twitter.com/caleb_aren/
+github: 
+  username: calebaren
+  url: https://github.com/calebaren/
+facebook:
+  username: calebaren
+  url: https://www.facebook.com/calebaren/
+instagram:
+  username: calebaren
+  url: https://www.instagram.com/calebaren/
+pinterest:
+  username: calebaren
+  url: https://www.pinterest.com/calebaren/
+linkedin:
+  username: calebaren
+  url: https://www.linkedin.com/in/calebaren/
+# ======= Personal Info ========
 phone: (206) 849-5804
 address: |
   232 Pforzheimer House<br />
   Cambridge, MA 02138
-pages: # to change
+pages_list: # to change
   - index
-  - generic
-  - elements
 
 # Build settings
 markdown: kramdown
