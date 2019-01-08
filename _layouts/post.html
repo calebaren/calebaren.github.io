@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>{{ page.title }}</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css"/>
+		<noscript><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="homepage is-preload">
+		<div id="page-wrapper">
+			<<div id="header">
+				<!-- Inner -->
+				<div class="inner">
+					<header>
+						<h1><a href="index.html" id="logo">{{ page.title }}</a></h1>
+						<hr />
+						<p>{{ page.date | date_to_long_string }}</p>
+					</header>
+					<footer>
+						<a href="#banner" class="button circled scrolly">&darr;</a>
+					</footer>
+				</div>
+				<!-- Nav -->
+				{% include nav.html %}
+			</div>
+			<div class="wrapper style1">
+				<article id="main" class="container special">
+					<header>
+						<h2>{{ page.title }}</h2>
+					</header>
+					<p>{{ content }}</p>
+				</div>
+				<div id="footer">
+					<div class="container">
+						<div class="row">
+							<!-- Tweets -->
+							{% include tweets.html %}
+							<!-- Posts -->
+							{% include posts.html %}
+							<!-- Photos -->
+							{% include photos.html %}
+						</div>
+						<hr />
+						<div class="row">
+							<div class="col-12">
+								<!-- Contact and copyright -->
+								{% include footer.html %}
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+			<script src="{{ site.baseurl }}/assets/js/jquery.dropotron.min.js"></script>
+			<script src="{{ site.baseurl }}/assets/js/jquery.scrolly.min.js"></script>
+			<script src="{{ site.baseurl }}/assets/js/jquery.scrollex.min.js"></script>
+			<script src="{{ site.baseurl }}/assets/js/browser.min.js"></script>
+			<script src="{{ site.baseurl }}/assets/js/breakpoints.min.js"></script>
+			<script src="{{ site.baseurl }}/assets/js/util.js"></script>
+			<script src="{{ site.baseurl }}/assets/js/main.js"></script>
+		</body>
+	</html>

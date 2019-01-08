@@ -48,7 +48,12 @@ address: |
   232 Pforzheimer House<br />
   Cambridge, MA 02138
 pages_list: # to change
-  - index
+  - 
+    name: Home
+    url: index.html 
+  - 
+    name: Post
+    url: post.html
 
 # Build settings
 markdown: kramdown
