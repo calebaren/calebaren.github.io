@@ -9,7 +9,7 @@
 	</head>
 	<body class="homepage is-preload">
 		<div id="page-wrapper">
-			<<div id="header">
+			<<div id="header" style="background-image: url({{ site.baseurl }}/images/{{ page.header_photo }}">
 				<!-- Inner -->
 				<div class="inner">
 					<header>
@@ -45,7 +45,7 @@
 						<div class="row">
 							<div class="col-12">
 								<!-- Contact and copyright -->
-								{% include footer.html %}
+								{% include contact-copyright.html %}
 							</div>
 						</div>
 					</div>

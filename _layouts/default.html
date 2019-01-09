@@ -17,7 +17,6 @@
 
 			<!-- Header -->
 				<div id="header">
-
 					<!-- Inner -->
 						<div class="inner">
 							<header>
@@ -198,44 +197,15 @@
 				</div>
 
 			<!-- Footer -->
-				<div id="footer">
-					<div class="container">
-						<div class="row">
 
-							<!-- Tweets -->
-								{% include tweets.html %}
-
-							<!-- Posts -->
-								{% include posts.html %}
-
-							<!-- Photos -->
-								{% include photos.html %}
-
-						</div>
-						<hr />
-						<div class="row">
-							<div class="col-12">
-
-								<!-- Contact and copyright -->
-								{% include footer.html %}
-
-							</div>
-
-						</div>
-					</div>
-				</div>
-
+				{% include footer.html %}
 		</div>
 
 		<!-- Scripts -->
-			<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-			<script src="{{ site.baseurl }}/assets/js/jquery.dropotron.min.js"></script>
-			<script src="{{ site.baseurl }}/assets/js/jquery.scrolly.min.js"></script>
-			<script src="{{ site.baseurl }}/assets/js/jquery.scrollex.min.js"></script>
-			<script src="{{ site.baseurl }}/assets/js/browser.min.js"></script>
-			<script src="{{ site.baseurl }}/assets/js/breakpoints.min.js"></script>
-			<script src="{{ site.baseurl }}/assets/js/util.js"></script>
-			<script src="{{ site.baseurl }}/assets/js/main.js"></script>
+			{% include scripts.html %}
+			<script>
+				console.log(document.getObjectById("header").style.backgroundImage);
+			</script>
 
 	</body>
 </html>
