@@ -1,7 +1,7 @@
 <nav id="nav">
 	<ul>
-		{% for page in site.pages_list %}
-			<li><a href={{ page.url }}>{{ page.name }}</a></li>
+		{% for page_x in site.pages_list %}
+			<li><a href={{ site.baseurl }}/{{ page_x.url }}>{{ page_x.name }}</a></li>
 		{% endfor %}
 		{% for post in site.posts %}
     		<li>

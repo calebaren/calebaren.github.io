@@ -18,19 +18,19 @@
 						<p>{{ page.date | date_to_long_string }}</p>
 					</header>
 					<footer>
-						<a href="#banner" class="button circled scrolly">&darr;</a>
+						<a href="#main" class="button circled scrolly">&darr;</a>
 					</footer>
 				</div>
 				<!-- Nav -->
 				{% include nav.html %}
 			</div>
 			<div class="wrapper style1">
-				<article id="main" class="container special">
+				<article id="main" class="container special" name="article">
 					<header>
 						<h2>{{ page.title }}</h2>
 					</header>
 					<p>{{ content }}</p>
-				</div>
+				</article>
 				<div id="footer">
 					<div class="container">
 						<div class="row">
