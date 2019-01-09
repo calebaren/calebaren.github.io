@@ -281,6 +281,18 @@ input, select, textarea {
 		flex-wrap: wrap;
 		box-sizing: border-box;
 		align-items: stretch;
+		padding: 0 4px;
+	}
+
+	.column {
+		flex: 50%;
+		max-width: 50%;
+		padding: 0 4px;
+	}
+
+	.column img {
+		margin-top: 8px;
+		vertical-align: middle;
 	}
 
 		.row > * {

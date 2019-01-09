@@ -1,9 +1,9 @@
 <section class="col-4 col-12-mobile">
 	<header>
-		<h2 class="icon fa-twitter circled"><span class="label">Tweets</span></h2>
+		<a href={{ site.twitter.url }}><h2 class="icon fa-twitter circled"><span class="label">Tweets</span></h2></a>
 	</header>
 	<ul class="divided">
-		<li>
+<!-- 		<li>
 			<article class="tweet">
 				Amet nullam fringilla nibh nulla convallis tique ante sociis accumsan.
 				<span class="timestamp">5 minutes ago</span>
@@ -25,7 +25,15 @@
 			<article class="tweet">
 				Lacus natoque cras rhoncus curae dignissim ultricies. Convallis orci aliquet.
 				<span class="timestamp">5 hours ago</span>
+			</article> -->
+		</li>
+			{% capture temp %}
+				{{ site.twitter.url }}
+			{% endcapture %}
+			<article class="tweet">
+				<a class="twitter-timeline" data-theme="dark" data-chrome="transparent noheader" data-lang="en" data-height="540px" href="https://twitter.com/caleb_aren?ref_src=twsrc%5Etfw">Tweets by caleb_aren</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 			</article>
+		<li>
 		</li>
 	</ul>
 </section>

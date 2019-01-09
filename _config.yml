@@ -51,15 +51,17 @@ pages_list: # to change
   - 
     name: Home
     url: index.html 
-  - 
-    name: Post
-    url: post.html
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-timeago
+  - jekyll-twitter-plugin
+
+jekyll_timeago:
+  depth: 1
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

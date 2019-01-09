@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>TEST</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css"/>
+		<noscript><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="homepage is-preload">
+		<div id="page-wrapper">
+			<div id="header">
+				<div class="inner">
+					<header>
+						<h1><a href="index.html" id="logo">{{ page.title }}</a></h1>
+						<hr />
+						<p>{{ page.date | date_to_long_string }}</p>
+					</header>
+					<footer>
+						<a href="#scroll" class="button circled scrolly">&darr;</a>
+					</footer>
+				</div>
+				{% include nav.html %}
+			</div>
+			<div class="wrapper style1" id="scroll">
+				<article id="main" class="container spcial" name="article">
+					<header>
+						<h2>{{ page.title }}</h2>
+					</header>
+					<p>{{ content }}</p>
+				</article>
+			</div>
+			{% include footer.html %}
+		</div>
+		{% include scripts.html %}
+	</body>
+</html>

@@ -3,23 +3,31 @@
 		<h2 class="icon fa-camera circled"><span class="label">Photos</span></h2>
 	</header>
 	<div class="row gtr-25">
-		<div class="col-6">
+		<!--  		<div class="column">
 			<a href="#" class="image fit"><img src="{{ site.baseurl }}/images/pic10.jpg" alt="" /></a>
-		</div>
-		<div class="col-6">
 			<a href="#" class="image fit"><img src="{{ site.baseurl }}/images/pic11.jpg" alt="" /></a>
-		</div>
-		<div class="col-6">
 			<a href="#" class="image fit"><img src="{{ site.baseurl }}/images/pic12.jpg" alt="" /></a>
 		</div>
-		<div class="col-6">
+		<div class="column">
 			<a href="#" class="image fit"><img src="{{ site.baseurl }}/images/pic13.jpg" alt="" /></a>
-		</div>
-		<div class="col-6">
 			<a href="#" class="image fit"><img src="{{ site.baseurl }}/images/pic14.jpg" alt="" /></a>
-		</div>
-		<div class="col-6">
 			<a href="#" class="image fit"><img src="{{ site.baseurl }}/images/pic15.jpg" alt="" /></a>
-		</div>
-	</div>
+		</div> -->
+		<div class="column">
+			{% assign var = 0 %}
+			{% for image in site.static_files %}
+				{% if image.path contains 'images/portfolio' %}
+					{% if var > 5 %}
+						{% break %}
+					{% endif %}
+					{% if var == 3 %}
+						</div>
+						<div class="column">
+					{% endif %}
+				<a href="#" class="image fit"><img src="{{ site.baseurl }}{{ image.path }}" alt="{{ site.baseurl }}/images/header.jpg" /></a>
+			{% assign var = var | plus: 1 %}
+		{% endif %}
+	{% endfor %}
+</div>
+</div>
 </section>
