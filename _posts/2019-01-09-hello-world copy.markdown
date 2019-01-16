@@ -5,17 +5,17 @@
 # date:   YYYY-MM-DD 23:59:59 -0800
 # categories: two atmost
 # headerphoto: "header1.jpg" <-- case matters!
-layout: post
+layout: post-simple
 title: "Hello World!"
 subtitle: "Short and sweet."
 categories:
-header_photo: "header1.jpg"
+header_photo: "sanjuan.JPG"
 ---
 <header><h3>Lorem ipsum dolor sit amet</h3></header>
 
 consectetur adipiscing elit. Aliquam ligula tortor, condimentum et nulla in, lobortis varius massa. Nam dictum finibus lectus, sed facilisis sem dignissim non. Pellentesque tempor velit tristique imperdiet pharetra. Phasellus pulvinar nulla a fermentum molestie. Sed mi nisl, interdum quis nulla vel, lobortis imperdiet lorem. Proin eget nisl aliquet, euismod leo vel, tempor nulla. Quisque id augue augue. Nunc bibendum semper efficitur. Curabitur nisi lorem, ornare eu nunc ut, bibendum posuere mauris. Sed in venenatis nisi. Mauris suscipit dolor lorem, a ullamcorper diam congue at. Duis molestie, ipsum in ultrices sollicitudin, justo lacus pretium risus, vitae lacinia metus ipsum ut sapien.
 
-<p><a href="http://google.com" class="image featured"><img src="/images/portfolio/IMG_0240.jpeg" title="me at the beech" alt="oops image not found!"/></a></p>
+<p><a href="http://google.com" class="image featured"><img src="/images/portfolio/cal+pat.JPG" title="me at the beech" alt="oops image not found!"/></a></p>
 
 <header><h3> Duis id convallis felis. </h3></header>
 Maecenas purus nibh, tincidunt et aliquet nec, sodales eu tortor. Aenean nisl turpis, cursus vel ullamcorper id, tincidunt ut velit. Curabitur ut arcu elit. Duis porttitor at odio sit amet facilisis. Sed vestibulum id eros eget posuere. Cras fermentum ex et nibh iaculis tempus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla aliquet turpis at augue pellentesque, non mattis sapien mollis. Aliquam commodo vehicula elit, sed varius ante. In hac habitasse platea dictumst. Vestibulum a congue magna, ut bibendum felis. Praesent efficitur metus in tincidunt tristique. Vivamus lectus libero, facilisis eu diam quis, commodo venenatis diam. Duis commodo, quam sed eleifend posuere, nunc arcu dignissim ipsum, eget varius justo lorem non erat.

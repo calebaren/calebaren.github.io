@@ -1,6 +1,6 @@
 <section class="col-4 col-12-mobile">
 	<header>
-		<h2 class="icon fa-camera circled"><span class="label">Photos</span></h2>
+		<a href="{{ site.instagram.url }}"><h2 class="icon fa-camera circled"><span class="label">Photos</span></h2></a>
 	</header>
 	<div class="row gtr-25">
 		<!--  		<div class="column">
@@ -24,7 +24,7 @@
 						</div>
 						<div class="column">
 					{% endif %}
-				<a href="#" class="image fit"><img src="{{ site.url }}{{ site.baseurl }}{{ image.path }}" alt="{{ site.url }}{{ site.baseurl }}/images/header.jpg" /></a>
+				<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="image fit"><img src="{{ site.url }}{{ site.baseurl }}{{ image.path }}" alt="{{ site.url }}{{ site.baseurl }}/images/header.jpg" /></a>
 			{% assign var = var | plus: 1 %}
 		{% endif %}
 	{% endfor %}
