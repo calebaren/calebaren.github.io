@@ -9,7 +9,7 @@ layout: post-simple
 title: "Hello World!"
 subtitle: "Short and sweet."
 categories:
-header_photo: "sanjuan.JPG"
+header_photo: "portfolio/sanjuan.JPG"
 ---
 <header><h3>Lorem ipsum dolor sit amet</h3></header>
 

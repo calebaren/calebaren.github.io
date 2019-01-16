@@ -5,7 +5,7 @@
 # date:   YYYY-MM-DD 23:59:59 -0800
 # categories: two atmost
 # headerphoto: "header1.jpg" <-- case matters!
-layout: no-sidebar
+layout: post-simple
 title: "Lorem Ipsum"
 subtitle: "Neque porro quisquam..."
 categories: test
