@@ -5,10 +5,9 @@
 	</head>
 	<body class="homepage is-preload">
 		<div id="page-wrapper">
-
 			<!-- Header -->
 			<div id="header" style="background-image: url({{ site.baseurl }}/images/{{ page.header_photo }})">
-<!-- "background-image: url({{ site.baseurl }}/images/{{ page.header_photo }}" -->
+				<!-- "background-image: url({{ site.baseurl }}/images/{{ page.header_photo }}" -->
 				<!-- Inner -->
 				<div class="inner">
 					<header>
@@ -20,12 +19,9 @@
 						<a href="#scroll" class="button circled scrolly">&darr;</a>
 					</footer>
 				</div>
-
 				<!-- Nav -->
 				{% include nav.html %}
-
 			</div>
-
 			<div class="wrapper style1" id="scroll">
 				<article id="main" class="container special" name="article">
 					<header>
@@ -33,10 +29,10 @@
 					</header>
 					<p>{{ content }}</p>
 				</article>
-				{% include article-footer.html %}
 				<hr />
-				{% include footer.html %}
+				{% include article-footer.html %}
 			</div>
+			{% include footer.html %}
 			{% include scripts.html %}
 		</div>
 	</body>

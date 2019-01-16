@@ -10,14 +10,26 @@ title: "Hello World!"
 subtitle: "Short and sweet."
 categories:
 header_photo: "portfolio/sanjuan.JPG"
+features:
+  one:
+    title: "no"
+    content: "nooooo"
+  two:
+    title: "yes"
+    content: "asdflkja;sd"
 ---
 <header><h3>Lorem ipsum dolor sit amet</h3></header>
 
 consectetur adipiscing elit. Aliquam ligula tortor, condimentum et nulla in, lobortis varius massa. Nam dictum finibus lectus, sed facilisis sem dignissim non. Pellentesque tempor velit tristique imperdiet pharetra. Phasellus pulvinar nulla a fermentum molestie. Sed mi nisl, interdum quis nulla vel, lobortis imperdiet lorem. Proin eget nisl aliquet, euismod leo vel, tempor nulla. Quisque id augue augue. Nunc bibendum semper efficitur. Curabitur nisi lorem, ornare eu nunc ut, bibendum posuere mauris. Sed in venenatis nisi. Mauris suscipit dolor lorem, a ullamcorper diam congue at. Duis molestie, ipsum in ultrices sollicitudin, justo lacus pretium risus, vitae lacinia metus ipsum ut sapien.
+<!-- 
+<a href="/images/portfolio/cal+pat.JPG" class="image featured"><img src="/images/portfolio/cal+pat.JPG" title="me at the beech" alt="oops image not found!" align="right" id="placeholder"/></a> -->
 
-<p><a href="http://google.com" class="image featured"><img src="/images/portfolio/cal+pat.JPG" title="me at the beech" alt="oops image not found!"/></a></p>
+
 
 <header><h3> Duis id convallis felis. </h3></header>
+
+<a href="/icon-1.png"><img src="/icon-1.png" title="icon test" align="right" style="width: 30%" alt="oops! image not found." id="placeholder" /></a>
+
 Maecenas purus nibh, tincidunt et aliquet nec, sodales eu tortor. Aenean nisl turpis, cursus vel ullamcorper id, tincidunt ut velit. Curabitur ut arcu elit. Duis porttitor at odio sit amet facilisis. Sed vestibulum id eros eget posuere. Cras fermentum ex et nibh iaculis tempus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla aliquet turpis at augue pellentesque, non mattis sapien mollis. Aliquam commodo vehicula elit, sed varius ante. In hac habitasse platea dictumst. Vestibulum a congue magna, ut bibendum felis. Praesent efficitur metus in tincidunt tristique. Vivamus lectus libero, facilisis eu diam quis, commodo venenatis diam. Duis commodo, quam sed eleifend posuere, nunc arcu dignissim ipsum, eget varius justo lorem non erat.
 
 Vestibulum nec sem nec tellus consectetur egestas eget eget lorem. Duis nec convallis libero, et pellentesque lectus. Nulla facilisi. Quisque tristique aliquet sollicitudin. Maecenas sed odio eu eros faucibus tincidunt sed quis dui. Donec molestie bibendum arcu, at viverra nibh suscipit vitae. Pellentesque nec interdum nisl. Proin quis ligula odio. Cras ut libero faucibus, tincidunt nisl quis, tristique nisl.
