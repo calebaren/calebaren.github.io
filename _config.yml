@@ -63,6 +63,15 @@ plugins:
   - jekyll-timeago
   - jekyll-twitter-plugin
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      header_photo: "lorem-ipsum.jpg"
+
 jekyll_timeago:
   depth: 1
 

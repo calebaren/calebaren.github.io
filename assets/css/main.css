@@ -72,6 +72,17 @@ input, select, textarea {
 	appearance: none;
 }
 
+#im {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-image: url("images/header.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 100px;
+}
 /* Basic */
 
 	html {
@@ -1799,7 +1810,11 @@ input, select, textarea {
 
 		.image img {
 			display: block;
-			width: 100%;
+    		width: 100%;
+    		object-fit: cover;
+    		min-width: 100%;
+    		max-height: 150px;
+    		min-height: 150px;
 		}
 
 		.image.fit {
@@ -1810,7 +1825,7 @@ input, select, textarea {
 		.image.featured {
 			display: block;
 			width: 100%;
-			margin: 0 0 4em 0;
+			margin: 0 0 2em 0;
 		}
 
 		.image.left {
@@ -2784,7 +2799,7 @@ input, select, textarea {
 		/* Image */
 
 			.image.featured {
-				margin: 0 0 2em 0;
+				margin: 0 0 1em 0;
 			}
 
 			.image.left {

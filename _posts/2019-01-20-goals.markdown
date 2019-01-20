@@ -1,0 +1,26 @@
+---
+# layout: post, default, no-sidebar, etc.
+# title: "Blog title"
+# subtitle: "Keep it short."
+# date:   YYYY-MM-DD 23:59:59 -0800
+# categories: two atmost
+# headerphoto: "header1.jpg" <-- case matters!
+title: Test
+subtitle: My goals for 2019.
+date:    2019-01-01 23:00:00 -0800
+categories: 
+features:
+  -
+    title: "📺"
+    photo: "lorem-ipsum.jpg"
+    content: "noasdl;fkja;lsdfkj"
+  -
+    title: "📚"
+    photo: "header-alt.jpg"
+    content: "noasdl;fkja;lsdfkj"
+  -
+    title: "🎹"
+    photo: "header.jpg"
+    content: "noasdl;fkja;lsdfkj"
+---
+So one of the things I wanted to do coming into this new year was to set some New Year's resolutions. I didn't get around to doing that (which is probably a foreboding sign), but recently I wanted to set some nonbinding, low-pressure goals for myself.
