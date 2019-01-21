@@ -39,7 +39,10 @@ body {
 	opacity: 0;
 	transition: none;
 }*/
-
+.article-body {
+	padding-left: 6em;
+	padding-right: 6em;
+}
 #custom {
 	object-fit: cover;
 	min-width: 100%;

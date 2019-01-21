@@ -62,7 +62,6 @@ plugins:
   - jekyll-feed
   - jekyll-timeago
   - jekyll-twitter-plugin
-  - jemoji
 
 defaults:
   -
