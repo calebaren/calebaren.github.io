@@ -21,6 +21,9 @@ features:
   -
     title: "🎹"
     photo: "header.jpg"
-    content: "noasdl;fkja;lsdfkj"
+    content: "noasdl;fkja;lsdfkj :+1:"
 ---
+<header><h3>Trying out new things.</h3></header>
 So one of the things I wanted to do coming into this new year was to set some New Year's resolutions. I didn't get around to doing that (which is probably a foreboding sign), but recently I wanted to set some nonbinding, low-pressure goals for myself.
+
+frontmatter
