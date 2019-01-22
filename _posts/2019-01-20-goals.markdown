@@ -9,18 +9,19 @@ title: Goals
 subtitle: starting (mid-january) off right
 date:    2019-01-01 23:00:00 -0800
 categories: 
+header_photo: "portfolio/griffin.JPG"
 features:
   -
-    title: "📺"
+    title: "Testing text"
     photo: "lorem-ipsum.jpg"
     content: "noasdl;fkja;lsdfkj"
   -
     title: "📚"
-    photo: "header-alt.jpg"
+    photo: "portfolio/per1.jpeg"
     content: "noasdl;fkja;lsdfkj"
   -
     title: "🎹"
-    photo: "header.jpg"
+    photo: "portfolio/per2.jpeg"
     content: "noasdl;fkja;lsdfkj :+1:"
 ---
 So one of the things I wanted to do coming into this new year was to set some New Year's resolutions. I didn't get around to doing that (which is probably a foreboding sign), but recently I wanted to set some nonbinding, low-pressure goals for myself. To that end, I immediately jumped into a bunch of lasting commitments and dedicated myself to filling my schedule as much as possible. However, my goal going forward is to hold myself accountable in the long run without stressing myself out and abandoning goals midway. I'm a scorpio, after all.
@@ -34,6 +35,6 @@ The things that I wanted to focus on are:
 
 It's a short and, as you can tell, exhaustive. Let's dive right in.
 
-<header><h2>health</h2></header>
+<header><h3>health</h3></header>
 
 For pretty much my entire life after elementary school, I've neglected to take care of myself physically. I'm a wreck. My bones creak. My skin aches. I'm pretty sure I have a melanoma. I've already committed (and somewhat achieved!) drinking a decent amount of water everyday. I finished a jug of mango juice and I've been using this 32-ounce behemoth as my water bottle. Doctors (who?) say that we should be getting 8 8-ounce glasses of water a day--I physically cannot stomach that quantity of water for now.

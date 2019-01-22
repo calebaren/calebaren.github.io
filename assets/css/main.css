@@ -40,8 +40,13 @@ body {
 	transition: none;
 }*/
 .article-body {
-	padding-left: 6em;
-	padding-right: 6em;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.article-body p {
+	text-align: left;
+	hyphens: auto;
 }
 #custom {
 	object-fit: cover;
@@ -2189,7 +2194,7 @@ input, select, textarea {
 
 	.wrapper {
 		background: #fff;
-		margin: 0 0 2em 0;
+		margin: 0 0 0 0;
 		padding: 6em 0 6em 0;
 	}
 

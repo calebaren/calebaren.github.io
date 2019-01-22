@@ -29,6 +29,7 @@
 				<article id="main" class="container special article-body" name="article">
 					<header>
 						<h2>{{ page.subtitle }}</h2>
+						<div style="height: 1em"></div>
 						<span class="icon fa-clock-o" style="color: rgba(0, 0, 0, 0.6);" title="Estimated read time">
 							{% assign words = content | number_of_words %}
 							{% if words < 360 %}
@@ -38,7 +39,6 @@
 							{% endif %}
 						</span>
 					</header>
-					<br />
 					<!-- <div class="article-body"> -->
 					<p>{{ content }}</p>
 				</article>
