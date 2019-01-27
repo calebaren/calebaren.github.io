@@ -47,7 +47,9 @@ body {
 .article-body p {
 	text-align: left;
 	hyphens: auto;
+
 }
+
 #custom {
 	object-fit: cover;
 	min-width: 100%;

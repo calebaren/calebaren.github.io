@@ -32,10 +32,10 @@
 						<div style="height: 1em"></div>
 						<span class="icon fa-clock-o" style="color: rgba(0, 0, 0, 0.6);" title="Estimated read time">
 							{% assign words = content | number_of_words %}
-							{% if words < 360 %}
+							{% if words < 300 %}
 								1 min
 							{% else %}
-								{{ words | divided_by:180 }} mins
+								{{ words | divided_by:150 }} mins
 							{% endif %}
 						</span>
 					</header>

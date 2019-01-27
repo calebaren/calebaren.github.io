@@ -54,6 +54,9 @@ pages_list: # to change
   -
     name: Resume
     url: assets/resume.pdf
+  -
+    name: Projects
+    url: projects
 
 # Build settings
 markdown: kramdown
