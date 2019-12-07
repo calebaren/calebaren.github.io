@@ -5,4 +5,4 @@ permalink: /projects
 header_photo: header1.jpg
 ---
 
-[Stat 139 Final Project](/stat139_project)
+[Stat 139 Final Project](http://calebaren.github.io/stat139_project)
