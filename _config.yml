@@ -151,12 +151,16 @@ author_blurb_image: "/img/author.jpg"
 social:
   - title: "facebook"
     url: "https://facebook.com/calebaren"
+  - title: "instagram"
+    url: "https://instagram.com/calebaren"
   - title: "twitter"
     url: "https://twitter.com/caleb_aren"
   - title: "github"
     url: "https://github.com/calebaren"
   - title: "linkedin"
     url: "https://linkedin.com/in/calebaren"
+  - title: "email"
+    url: "mailto:calebaren@gmail.com"
 
 ############
 # 404 page #
@@ -183,7 +187,6 @@ pages_list:
   Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
-  Testing: 'latest-post'
 
 # Exclusion list from the generated _site
 
