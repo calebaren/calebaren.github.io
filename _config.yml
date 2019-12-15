@@ -166,7 +166,7 @@ social:
 # 404 page #
 ############
 
-err-404-img: "/img/labtocat.png"
+err-404-img: ""
 
 ##################
 # GPG on Keybase #
