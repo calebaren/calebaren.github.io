@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://calebaren.github.io"
+url: "https://le4ker.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -29,19 +29,19 @@ force-https: True
 #############
 
 lang: "en"
-author: "Caleb Ren"
-title: "{ Caleb Ren }"
-description: "Hello World"
-keywords: "caleb, ren, calebaren, github, tech, statistics, computer-science, cs, data"
+author: "John Smith"
+title: "{ John Smith }"
+description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "" # remember to add something here
+black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "/img/intro-bg.jpg"
+background-img: "../img/intro-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -55,7 +55,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Website of Caleb Ren."
+  - text: "The lower you fall, the higher you'll fly."
+  - text: "Where’s your will to be weird?"
+
+me-img: "/img/jetpacktocat.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -63,7 +66,19 @@ lines: # You can add HTML Tags in the Text
 # in the end of the url just before '&type' is your user id.
 # Note: fbid is not the same as user id and user id only contains numbers
 
-me-img: "https://graph.facebook.com/100001726448577/picture?type=large&width=500&height=500"
+# me-img: "https://graph.facebook.com/user_id/picture?type=large&width=500&height=500"
+
+# To use github profile pic uncomment the following line and replace 'user_name'
+# with your github user name.
+
+# me-img: "https://github.com/user_name.png?size=500"
+
+# To use gravatar profile pic uncomment the following line and replace 'email_hash'
+# with your gravatar profile email hash.
+# You can create the email hash by using an online tool like 'http://www.md5hashgenerator.com/'
+# just enter your email and it will generate the hash.
+
+# me-img: "https://www.gravatar.com/avatar/email_hash?s=500"
 
 ##############################
 # Color the browser elements #
@@ -100,12 +115,12 @@ email-share: True
 fb-share: True
 twitter-share: True
 linkedin-share: True
-reddit-share: False
-google-plus-share: False
-tumblr-share: False
-pinterest-share: False
-pocket-share: False
-vkontakte-share: False
+reddit-share: True
+google-plus-share: True
+tumblr-share: True
+pinterest-share: True
+pocket-share: True
+vkontakte-share: True
 
 disqus-shortname: "personal-jekyll-theme"
 
@@ -131,7 +146,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "calebaren@gmail.com"
+email: "your@email.here"
 
 ################
 # Author Blurb #
@@ -141,8 +156,8 @@ email: "calebaren@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Caleb Ren is a third-year Harvard College student concentrating in statistics and computer science. He makes a mean mac and cheese."
-author_blurb_image: "/img/author.jpg"
+author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb_image: "/img/author.png"
 
 ##################
 # Social Buttons #
@@ -150,17 +165,15 @@ author_blurb_image: "/img/author.jpg"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/calebaren"
-  - title: "instagram"
-    url: "https://instagram.com/calebaren"
+    url: "https://facebook.com/"
   - title: "twitter"
-    url: "https://twitter.com/caleb_aren"
+    url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/calebaren"
-  - title: "linkedin"
-    url: "https://linkedin.com/in/calebaren"
-  - title: "email"
-    url: "mailto:calebaren@gmail.com"
+    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+  - title: "bitcoin"
+    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+  - title: "rss"
+    url: "/feed.xml"
 
 ############
 # 404 page #
@@ -172,9 +185,9 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: 
-keybase-in-social: False
-keybase-in-footer: False
+keybase-username: johnsmith
+keybase-in-social: True
+keybase-in-footer: True
 
 ################################################################################
 
