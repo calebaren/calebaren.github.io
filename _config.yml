@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "" # remember to add something here
 
-background-img: ""
+background-img: "/img/intro-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -116,16 +116,16 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/college.jpg"
+    date: "2017 - Today"
+    description: "College!"
+  - image: "/img/timeline/hs.jpg"
+    date: "2013 - 2017"
+    description: "High School Years."
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/start.jpg"
 
 ###########
 # Contact #
@@ -149,16 +149,18 @@ author_blurb_image: "/img/author.jpg"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/calebaren"
+  # - title: "facebook"
+  #   url: "https://facebook.com/calebaren"
   - title: "instagram"
     url: "https://instagram.com/calebaren"
-  - title: "twitter"
-    url: "https://twitter.com/caleb_aren"
+  # - title: "twitter"
+  #   url: "https://twitter.com/caleb_aren"
   - title: "github"
     url: "https://github.com/calebaren"
   - title: "linkedin"
     url: "https://linkedin.com/in/calebaren"
+  - title: "envelope"
+    url: "mailto:calebaren@gmail.com"
 
 ############
 # 404 page #
