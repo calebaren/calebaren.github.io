@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "" # remember to add something here
 
-background-img: "/img/intro-bg.jpg"
+background-img: "/img/test-gif.gif"
 
 ##############################
 # Dynamic Text on the Header #
@@ -107,8 +107,6 @@ pinterest-share: False
 pocket-share: False
 vkontakte-share: False
 
-disqus-shortname: "personal-jekyll-theme"
-
 syntax-highlight: True
 
 ############
@@ -116,11 +114,11 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/college.jpg"
+  - image: "/img/timeline/stat185.png"
     date: "December 2019"
-    description: "Spherelets Term Paper"
+    description: "Spherelets"
     url: "/stat185_term_paper"
-  - image: "/img/timeline/hs.jpg"
+  - image: "/img/timeline/stat139.png"
     date: "October 2019"
     description: "Drugs and Jobs: The Effect of Unemployment on Drug Overdose Deaths in America"
     url: "/stat139_project"
@@ -175,7 +173,7 @@ err-404-img: ""
 # GPG on Keybase #
 ##################
 
-keybase-username: 
+keybase-username: ""
 keybase-in-social: False
 keybase-in-footer: False
 
