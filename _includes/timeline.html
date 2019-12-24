@@ -18,8 +18,11 @@
           {% endcapture %}
 
           <li class="{{ class }}">
+            
             <div class="timeline-image">
+              <a href="{{event.url}}">
               <img class="img-circle img-responsive" src="{{site.baseurl}}{{ event.image }}" alt="">
+              </a>
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
@@ -34,7 +37,9 @@
 
         <li class="timeline-inverted">
           <div class="timeline-image">
+            <a href = "{{ site.timeline_url }}">
             <img class="img-circle img-responsive" src="{{site.baseurl}}{{ site.timeline-img }}" alt="">
+            </a>
           </div>
         </li>
       </ul>
