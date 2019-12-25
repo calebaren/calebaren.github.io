@@ -30,8 +30,8 @@ force-https: True
 
 lang: "en"
 author: "Caleb Ren"
-title: "{ Caleb Ren }"
-description: "Hello World"
+title: "{ calebaren }"
+description: "Portfolio and website of @calebaren."
 keywords: "caleb, ren, calebaren, github, tech, statistics, computer-science, cs, data,"
 favicon: "/img/favicon.ico"
 
@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "" # remember to add something here
 
-background-img: "/img/test-gif.gif"
+background-img: "/img/intro-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -49,13 +49,17 @@ background-img: "/img/test-gif.gif"
 
 dynamic-typing: True
 shuffle: True # Shuffle the lines.
-loop: False
+loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Website of Caleb Ren."
+  - text: "// statistics"
+  - text: "// computer_science"
+  - text: "// data_analytics"
+  - text: "// statistical_learning"
+  - text: "// dimension_reduction"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
