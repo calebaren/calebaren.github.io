@@ -39,9 +39,10 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/white_favicon_32p.png" # remember to add something here
+black-favicon: "" # remember to add something here
 
-background-img: "/img/intro-bg.jpg"
+background-img: "../img/intro-bg.jpg"
+body-img: "../img/body-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -55,18 +56,18 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "// statistical_learner"
+  - text: "// statistician"
   - text: "// computer_scientist"
-  - text: "// dimension_reducer"
-  - text: "// r_programmer"
-  - text: "// python_programmer"
-  - text: "// sony_alpha_photographer"
-  - text: "// music_director"
-  - text: "// data_driven"
-  - text: "// graphic_designer"
-  - text: "// product_manager"
-  - text: "// swiss_army_knife"
-  - text: "// data_scientist"
+  # - text: "// dimension_reducer"
+  # - text: "// r_programmer"
+  # - text: "// python_programmer"
+  # - text: "// sony_alpha_photographer"
+  # - text: "// music_director"
+  # - text: "// data_driven"
+  # - text: "// graphic_designer"
+  # - text: "// product_manager"
+  # - text: "// swiss_army_knife"
+  # - text: "// data_scientist"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -136,7 +137,7 @@ events:
   - image: "/img/timeline/cs50.png"
     date: "December 2018"
     description: "That's A Mood"
-    url: "/projects/2019/12/24/thats-a-mood.html"
+    url: "/projects/2018/12/24/thats-a-mood.html"
 
 # First image of the Timeline
 

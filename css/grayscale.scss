@@ -13,11 +13,11 @@
 body {
     width: 100%;
     height: 100%;
-    font-family: "Raleway",Helvetica,Arial,sans-serif;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
     font-weight: 300;
     color: $font-color;
-    background-color: $primary-color;
     letter-spacing: 0.05em;
+    background-color: $primary-color;
 }
 
 html {
@@ -164,8 +164,8 @@ a {
     padding: 100px 0;
     text-align: center;
     color: $intro-text-color;
-    {% if site.background-img %}
-    background: url({{ site.background-img }}) no-repeat bottom center scroll;
+    {% if page.background-img %}
+    background: url({{ site.background-img }}) no-repeat bottom center fixed;
     {% endif %}
     background-color: $header-background-color;
     -webkit-background-size: cover;
@@ -448,6 +448,3 @@ body {
   border: 1px solid $primary-color !important;
 }
 
-.postbox {
-    /* background: rgba($font-color, 0.2) */
-}
