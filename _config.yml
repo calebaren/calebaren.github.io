@@ -131,8 +131,12 @@ events:
     url: "/stat185_term_paper"
   - image: "/img/timeline/stat139.png"
     date: "October 2019"
-    description: "Drugs and Jobs: The Effect of Unemployment on Drug Overdose Deaths in America"
+    description: "Drugs and Jobs: Unemployment and Overdose Deaths"
     url: "/stat139_project"
+  - image: "/img/timeline/cs50.png"
+    date: "December 2018"
+    description: "That's A Mood"
+    url: "/projects/2019/12/24/thats-a-mood.html"
 
 # First image of the Timeline
 

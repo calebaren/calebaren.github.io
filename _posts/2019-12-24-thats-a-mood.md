@@ -10,7 +10,7 @@ tags: ['projects', 'tech', 'school', 'cs']
 
 ### This is CS50
 
-*That's A Mood* is a project to encourage an open expression of mental health on the Harvard campus. Check out the full Github repository [here](https://github.com/annawang7/cs50-final-proj).
+*That's A Mood* is a project by Anna Wang '22 and Caleb Ren '21 to encourage an open expression of mental health on the Harvard campus. Check out the full Github repository [here](https://github.com/annawang7/cs50-final-proj).
 
 You can also read more about this project in [this article](https://www.seas.harvard.edu/news/2018/12/if-they-can-dream-it-they-can-code-it) written by the Harvard School of Engineering and Applied Sciences!
 
