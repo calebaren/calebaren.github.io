@@ -32,7 +32,7 @@
             </small>
           </h4>
 
-          <section class="text-justify">
+          <section style="text-align:left">
             {{ page.content | markdownify }}
           </section>
 
@@ -47,8 +47,10 @@
 
           {% if site.author_blurb %}
           <div class="author row">
-            <img class="col-xs-4 col-sm-3 col-md-2" src="{{site.baseurl}}{{site.author_blurb_image}}" alt="Me" />
-            <p class="col-xs-8 col-sm-9 col-md-10">
+            <img class="col-xs-4 col-sm-3 col-md-2 img-circle img-responsive" src="{{site.baseurl}}{{ site.author_blurb_image }}" alt="">
+            </a>
+            <!-- <img class="col-xs-4 col-sm-3 col-md-2" src="{{site.baseurl}}{{site.author_blurb_image}}" alt="Me" /> -->
+            <p class="col-xs-8 col-sm-9 col-md-10" style="font-weight:200">
               {{ site.author_blurb }}
             </p>
           </div>

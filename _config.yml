@@ -31,15 +31,15 @@ force-https: True
 lang: "en"
 author: "Caleb Ren"
 title: "{ calebaren }"
-description: "Portfolio and website of @calebaren."
-keywords: "caleb, ren, calebaren, github, tech, statistics, computer-science, cs, data,"
+description: "Portfolio and website of calebaren."
+keywords: "caleb, ren, calebaren, github, tech, statistics, computer-science, cs, data"
 favicon: "/img/favicon.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "" # remember to add something here
+black-favicon: "/img/white_favicon_32p.png" # remember to add something here
 
 background-img: "/img/intro-bg.jpg"
 
@@ -55,11 +55,18 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "// statistics"
-  - text: "// computer_science"
-  - text: "// data_analytics"
-  - text: "// statistical_learning"
-  - text: "// dimension_reduction"
+  - text: "// statistical_learner"
+  - text: "// computer_scientist"
+  - text: "// dimension_reducer"
+  - text: "// r_programmer"
+  - text: "// python_programmer"
+  - text: "// sony_alpha_photographer"
+  - text: "// music_director"
+  - text: "// data_driven"
+  - text: "// graphic_designer"
+  - text: "// product_manager"
+  - text: "// swiss_army_knife"
+  - text: "// data_scientist"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -83,12 +90,12 @@ web-app-mode: True
 
 # Icons for Web App mode
 
-icon-36p: "/img/web-app/icon-36p.png"
-icon-48p: "/img/web-app/icon-48p.png"
-icon-72p: "/img/web-app/icon-72p.png"
-icon-96p: "/img/web-app/icon-96p.png"
-icon-144p: "/img/web-app/icon-144p.png"
-icon-192p: "/img/web-app/icon-192p.png"
+icon-36p: "/img/web-app/icon_36p.png"
+icon-48p: "/img/web-app/icon_48p.png"
+icon-72p: "/img/web-app/icon_72p.png"
+icon-96p: "/img/web-app/icon_96p.png"
+icon-144p: "/img/web-app/icon_144p.png"
+icon-192p: "/img/web-app/icon_192p.png"
 
 ########
 # Blog #
@@ -96,7 +103,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 enable-gesture-navigation: True
 
-post-preview-words: 96
+post-preview-words: 25
 
 paginate: 5
 
@@ -147,7 +154,7 @@ email: "calebaren@gmail.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Caleb Ren is a third-year Harvard College student concentrating in statistics and computer science. He makes a mean mac and cheese."
-author_blurb_image: "/img/author.jpg"
+author_blurb_image: "https://graph.facebook.com/100001726448577/picture?type=large&width=500&height=500"
 
 ##################
 # Social Buttons #
@@ -189,9 +196,11 @@ keybase-in-footer: False
 
 pages_list:
   About: 'about'
+  Resume: 'resume'
+  Projects: 'projects'
   Blog: 'latest-post'
-  Timeline: 'timeline'
   Contact: 'contact'
+
 
 # Exclusion list from the generated _site
 
