@@ -4,10 +4,8 @@ section-type: post
 title: That's A Mood
 category: projects
 tags: ['projects', 'tech', 'school', 'cs']
-background-img: /img/favicon.ico
+background-img: "/assets/blog_photos/pic00.jpg"
 ---
-
-![That's A Mood](/assets/blog_photos/pic02.jpg)
 
 ### This is CS50
 
