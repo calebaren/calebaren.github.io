@@ -199,16 +199,18 @@ a {
     }
 }
 
-.page-intro {
+.post-intro {
     display: table;
     width: 100%;
     height: auto;
     padding: 100px 0;
     text-align: center;
     color: $intro-text-color;
+    background: url("{{site.baseurl}}/{{page.category}}") no-repeat center center fixed;
     background-color: $header-background-color;
     -webkit-background-size: cover;
     -moz-background-size: cover;
+    background-size: cover;
     -o-background-size: cover;
     .intro-body {
         display: table-cell;
@@ -228,7 +230,7 @@ a {
         padding: 0;
         .intro-body {
             .brand-heading {
-                font-size: 100px;
+                font-size: 90px;
             }
             .intro-text {
                 font-size: 26px;
