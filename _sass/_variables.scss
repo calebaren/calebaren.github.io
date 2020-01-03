@@ -1,0 +1,22 @@
+// Variables
+
+// DARK THEME:
+$primary-color: #2e323c;
+$secondary-color: #e7746f;
+$font-color: #FFF;
+
+// USE THIS FOR LIGHT THEME:
+//$primary-color: #FFFAFA;
+//$font-color: #2e323c;
+//$secondary-color: #e7746f;
+
+$navbar-text-shadow: false;
+$header-text-shadow: false;
+$header-background-color: $primary-color;
+$intro-text-color: $font-color;
+$navbar-color: $font-color;
+$navbar-lg-collapse-background-color: $header-background-color;
+$navbar-lg-background: transparent;
+$navbar-sm-background-color: $navbar-lg-collapse-background-color;
+
+$social-buttons-color: $secondary-color;
