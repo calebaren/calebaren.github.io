@@ -198,7 +198,6 @@ a {
         }
     }
 }
-
 .post-intro {
     display: table;
     width: 100%;
@@ -237,6 +236,26 @@ a {
             }
         }
     }
+}
+
+.button {
+    height:3em;
+    width:3em;
+    padding: 0 1em 1em 1em;
+    border-radius: 50%;
+    position: relative;
+    display: inline-block;
+    background: $primary-color;
+    color: $secondary-color;
+    text-align: center;
+    cursor: pointer;
+    outline: 0;
+    font-weight: 300;
+    font-size: 30px;
+    -moz-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+    -webkit-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+    -ms-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+    transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 }
 
 @-webkit-keyframes pulse {

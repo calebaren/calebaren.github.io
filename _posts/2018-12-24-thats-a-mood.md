@@ -13,7 +13,7 @@ bgimage: '/assets/blog_photos/pic02.jpg'
 
 You can also read more about this project in [this article](https://www.seas.harvard.edu/news/2018/12/if-they-can-dream-it-they-can-code-it) written by the Harvard School of Engineering and Applied Sciences!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_VsNFTUYZqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/_VsNFTUYZqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
 
