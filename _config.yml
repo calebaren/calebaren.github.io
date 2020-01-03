@@ -104,7 +104,7 @@ icon-192p: "/img/web-app/icon_192p.png"
 
 enable-gesture-navigation: True
 
-post-preview-words: 25
+post-preview-words: 50
 
 paginate: 5
 
