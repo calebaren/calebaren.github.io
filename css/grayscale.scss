@@ -166,7 +166,6 @@ a {
     color: $intro-text-color;
     {% if site.background-img %}
     background: url({{ site.background-img }}) no-repeat center center fixed;
-    position: fixed;
     {% endif %}
     background-color: $header-background-color;
     -webkit-background-size: cover;
