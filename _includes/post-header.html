@@ -1,14 +1,15 @@
 
 <!-- Intro Start -->
 
-<header class="post-intro"{% if page.bgimage %}style="background-image: url({{ page.bgimage }}); height: 100%;" {% endif %}>
-  <div class="intro-body" style="backdrop-filter: blur(3px);">
+
+<header class="post-intro"{% if page.bgimage %}style="background-image: url({{ page.bgimage }});" {% endif %}>
+  <div class="intro-body">
     <div class="container">
       <div class="row">
           <div class="col-md-10 col-md-offset-1">
             <h1 class="brand-heading">&nbsp;</h1>
             <span class="intro-text">
-              <h1><strong>{{ page.title }}</strong></h1>
+              <h1 style="font-size: 50px"><strong>{{ page.title }}</strong></h1>
               <h4>
                 <strong>{{ page.date | date_to_string }}</strong>
                 <small>
@@ -30,5 +31,6 @@
     </div>
   </div>
 </header>
+
 
 <!-- Intro End -->

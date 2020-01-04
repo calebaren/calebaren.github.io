@@ -201,11 +201,11 @@ a {
 .post-intro {
     display: table;
     width: 100%;
-    height: auto;
-    padding: 100px 0;
+    height: 100%;
+    padding: 0;
     text-align: center;
     color: $intro-text-color;
-    background: url("{{site.baseurl}}/{{page.category}}") no-repeat center center fixed;
+    background-attachment: fixed;
     background-color: $header-background-color;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -214,6 +214,7 @@ a {
     .intro-body {
         display: table-cell;
         vertical-align: middle;
+        backdrop-filter: blur(4px) brightness(70%);
         .brand-heading {
             font-size: 40px;
         }
@@ -222,6 +223,9 @@ a {
             @if $navbar-text-shadow {
                 text-shadow: 1px 0 1px #000;
             }
+        }
+        .row {
+            backdrop-filter: blur(10px);
         }
     }
     @media(min-width:768px) {
