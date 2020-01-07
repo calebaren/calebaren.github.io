@@ -174,12 +174,12 @@ social:
   #   url: "https://twitter.com/caleb_aren"
   - title: "github"
     url: "https://github.com/calebaren"
-  - title: "linkedin"
-    url: "https://linkedin.com/in/calebaren"
-  - title: "500px"
-    url: "https://500px.com/calebaren"
   - title: "envelope"
     url: "mailto:calebaren@gmail.com"
+  - title: "linkedin"
+    url: "https://linkedin.com/in/calebaren"
+  - title: "behance"
+    url: "https://www.behance.net/calebaren/"
 
 
 ############
