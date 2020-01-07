@@ -158,7 +158,8 @@ email: "calebaren@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Caleb Ren is a third-year Harvard College student concentrating in statistics and computer science. He makes a mean mac and cheese."
+author_blurb: >
+  Caleb is a third-year Harvard College student concentrating in statistics and computer science. Caleb tries to spend as much time with family as possible, extol the virtues of mirrorless cameras to anyone who will listen, read up on dimension reduction techniques, defend the merits of Seattle, hike, and lift things and setting them down.
 author_blurb_image: "https://graph.facebook.com/100001726448577/picture?type=large&width=500&height=500"
 
 ##################
