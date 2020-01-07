@@ -159,8 +159,8 @@ a {
 
 .intro {
     display: table;
-    width: 100%;
-    height: auto;
+    width: auto;
+    height: 100%;
     padding: 100px 0;
     text-align: center;
     color: $intro-text-color;
@@ -168,9 +168,9 @@ a {
     background: url({{ site.background-img }}) no-repeat center center fixed;
     {% endif %}
     background-color: $header-background-color;
-    -webkit-background-size: cover;
+    -webkit-background-size: 100%;
     -moz-background-size: cover;
-    background-size: cover;
+    background-size: 100%;
     -o-background-size: cover;
     .intro-body {
         display: table-cell;
