@@ -1,7 +1,6 @@
 <svg id="fader"></svg>
 
 <script>
-
   function fadeInPage() {
     if (!window.AnimationEvent) { return; }
     var fader = document.getElementById('fader');
@@ -10,16 +9,14 @@
   fadeInPage();
 
   document.addEventListener('DOMContentLoaded', function() {
-  	if(!window.AnimationEvent) {
-      console.log("returned: AnimationEvent");
-      return; 
-    }
+  	if(!window.AnimationEvent) { return; }
   	var anchors = document.getElementsByTagName('a');
 
   	for (var idx=0; idx<anchors.length; idx+= 1) {
-  		if (anchors[idx].hostname !== window.location.hostname || anchors[idx].pathname === window.location.pathname) {
+  		if (anchors[idx].hostname !== window.location.hostname || nachors[idx].pathname === window.location.pathname) {
   			continue;
   		}
+
   		anchors[idx].addEventListener('click', function(event) {
   			var fader = document.getElementById('fader'), anchor = event.currentTarget;
 
@@ -35,7 +32,6 @@
   		});
   	}
   });
-  console.log('DOMContentLoaded');
   window.addEventListener('pageshow', function(event) {
   	if (!event.persisted) {
   		return;
