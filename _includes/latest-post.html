@@ -17,11 +17,11 @@
           <strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
         </h4>
 
-        <section class="text-justify">
+        <section class="text-center">
           {{ post.content | strip_html | markdownify | truncatewords: site.post-preview-words }}
         </section>
 
-        <h4><a href="{{site.baseurl}}/blog/">Archive</a></h4>
+        <h4><a href="{{site.baseurl}}{{ post.url }}">Read the rest here</a> or <a href="{{site.baseurl}}/blog/">Check out the Archive</a>.</h4>
 
       </div>
     </div>
