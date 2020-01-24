@@ -198,6 +198,9 @@ a {
             }
         }
     }
+    @media(max-width:767px) {
+        background-attachment: scroll;
+    }
 }
 .post-intro {
     display: table;
