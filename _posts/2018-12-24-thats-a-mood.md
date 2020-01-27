@@ -4,7 +4,7 @@ section-type: post
 title: That's A Mood
 category: projects
 tags: ['projects', 'tech', 'school', 'cs']
-bgimage: '/assets/blog_photos/pic02.jpg'
+bgimage: '/assets/blog_photos/cs50-3.gif'
 ---
 
 ### This is CS50
@@ -25,7 +25,7 @@ When you input your mood on our website in the form of a color, our display anon
 
 Whether you're feeling elated, worried, or sad, you are not alone. Let's break this stigma and work towards creating better environments of mental health for us all.
 
-![That's A Mood](/assets/blog_photos/pic00.jpg)
+![That's A Mood](/assets/blog_photos/cs50-2.jpg)
 
 ### Why is this important?
 
