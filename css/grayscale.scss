@@ -17,7 +17,9 @@ body {
     font-weight: 100;
     color: $font-color;
     letter-spacing: 0.05em;
-    background-color: $primary-color;
+    background: rgb(46,50,60);
+    background: $primary-color;
+    background: linear-gradient(45deg, rgba(46,50,60,1) 0%, rgba(66,69,83,1) 69%, rgba(140,144,161,1) 132%) fixed;
 }
 
 html {
