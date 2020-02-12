@@ -19,8 +19,8 @@ body {
     letter-spacing: 0.05em;
     background: rgb(46,50,60);
     background: $primary-color;
-    background: -o-linear-gradient(45deg, rgba(46,50,60,1) 0%, rgba(66,69,83,1) 69%, rgba(140,144,161,1) 132%) fixed;
-    background: linear-gradient(45deg, rgba(46,50,60,1) 0%, rgba(66,69,83,1) 69%, rgba(140,144,161,1) 132%) fixed;
+    background: -o-linear-gradient(45deg, rgba(46,50,60,1) 0%, rgba(66,69,83,1) 69%, rgba(117,121,136,1) 132%) fixed;
+    background: $primary-gradient fixed;
 }
 
 html {
@@ -278,8 +278,8 @@ a {
     z-index: 99999999;
     pointer-events: none;
     background: $primary-color;
-    background: -o-linear-gradient(45deg, rgba(46,50,60,1) 0%, rgba(66,69,83,1) 69%, rgba(140,144,161,1) 132%) fixed;
-    background: linear-gradient(45deg, rgba(46,50,60,1) 0%, rgba(66,69,83,1) 69%, rgba(140,144,161,1) 132%) fixed;
+    background: -o-linear-gradient(45deg, rgba(46,50,60,1) 0%, rgba(66,69,83,1) 69%, rgba(117,121,136,1) 132%) fixed;
+    background: $primary-gradient fixed;
     animation-duration: 350ms;
     animation-timing-function: ease-in-out;
 }
