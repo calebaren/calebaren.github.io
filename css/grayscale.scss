@@ -167,8 +167,8 @@ a {
     text-align: center;
     color: $intro-text-color;
     {% if site.background-img %}
-    background: url({{ site.background-img }}) center center fixed; 
-    background-size: cover; 
+    background: url({{ site.background-img }}) center center fixed;
+    background-size: cover;
     background-repeat: no-repeat;
     {% endif %}
     background-color: $header-background-color;
@@ -356,7 +356,6 @@ a {
     /* Added in { Personal } */
     ul,
     ol {
-        text-align: center;
         margin: 0 0 25px;
         font-size: 18px;
         line-height: 1.5;
@@ -552,4 +551,3 @@ body {
 .fourofour {
   border: 1px solid $primary-color !important;
 }
-
