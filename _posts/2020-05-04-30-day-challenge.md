@@ -7,13 +7,15 @@ tags: [ 'music' , 'quarantine' ]
 bgimage: 'https://images.unsplash.com/photo-1509782642997-4befdc4b21c9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80'
 ---
 
-This is going to be a weirly long post. I recently did a [30-day music challenge](https://www.bustle.com/p/how-to-do-the-30-day-song-challenge-on-instagram-22774509) on my [Facebook](https://facebook.com/calebaren)/[Instagram](https://instagram.com/calebaren) stories. I've never posted this extensively to my stories on any social media platform and I left the experience feeling very accomplished. I also got a lot of feedback about my music choice. All the feedback makes me feel a lot of feelings.
+This is going to be a weirly long post. I recently did a [30-day music challenge](https://www.bustle.com/p/how-to-do-the-30-day-song-challenge-on-instagram-22774509) on my [Facebook](https://facebook.com/calebaren)/[Instagram](https://instagram.com/calebaren) stories. I've never posted this extensively to my stories on any social media platform so I'm pretty darn proud of myself. I also got a lot of feedback about my music choice. 
+
+All of the feedback makes me feel a lot of feelings.
 
 Anyway, I've compiled a list of all 30 (actually 31, since I included an extra piece on day 8) pieces that I featured below. I may do more in-depth essays on a couple of these later. 
 
 You'll notice there's a lot of Brahms, Rachmaninoff, and Ravel. I wholly expected there to be more Stravinsky, Shostakovich, and Mozart but the evocative prompts like "A song that reminds you of summer", "A song about drugs or alcohol" made big, brassy Romantic compositions an easy target.
 
-For your listening convenience I've included a Spotify playlist of all the pieces I've featured near the footer. For multi-movement pieces (symphonies, chamber music, etc.) I've included the entire work although I only chose to highlighted certain movements in my 30-day challenge. 
+For your listening convenience I've included a Spotify playlist of all the pieces I've featured near the footer. Unfortunately Spotify truncates the playlist to 100 songs 🤭 and only offers 30-second previews. For the best experience, access the full playlist [here](spotify:playlist:7ugCpTIic2QPliL35x7Msc). For multi-movement pieces (symphonies, chamber music, etc.) I've included the entire work although I only chose to highlighted certain movements in my 30-day challenge. 
 
 Pieces that are not nominally multi-movement but consist of collections of pieces (*Trois chansons*, Klavierstücke, etc.), I've split the difference and included a subset (up to the full collection) that I think make the most sense and would be reasonable to enjoy as a single artistic statement.
 
