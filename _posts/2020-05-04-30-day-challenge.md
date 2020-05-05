@@ -11,7 +11,7 @@ This is going to be a weirly long post. I recently did a [30-day music challenge
 
 All of the feedback makes me feel a lot of feelings.
 
-Anyway, I've compiled a list of all 30 (actually 31, since I included an extra piece on day 8) pieces that I featured below. I may do more in-depth essays on a couple of these later. 
+Anyway, I've compiled a list of all 30 (actually 32, since I included an extra piece on day 8 and subbed out Rautavaara for Haas) pieces that I featured below. I may do more in-depth essays on a couple of these later. 
 
 You'll notice there's a lot of Brahms, Rachmaninoff, and Ravel. I wholly expected there to be more Stravinsky, Shostakovich, and Mozart but the evocative prompts like "A song that reminds you of summer", "A song about drugs or alcohol" made big, brassy Romantic compositions an easy target.
 
@@ -41,6 +41,7 @@ Without further ado:
 * [*Lincolnshire Posy*](https://en.wikipedia.org/wiki/Lincolnshire_Posy), Percy Grainger
 * [Cello Sonata in D minor, Op. 40](https://en.wikipedia.org/wiki/Cello_Sonata_(Shostakovich)), Dmitri Shostakovich
 * [Piano Concerto No. 3 "Gift of Dreams"](https://en.wikipedia.org/wiki/Piano_Concerto_No._3_(Rautavaara)), Einojuhani Rautavaara
+* ([String Quartet No. 2](http://counter-melody.com/encounters/string-quartet-no-2-georg-friedrich-haas/), Georg Friedrich Haas)
 * [*Das Lied von der Erde* ("The Song of the Earth")](https://en.wikipedia.org/wiki/Das_Lied_von_der_Erde), Gustav Mahler
 * [6 Klavierstücke, Op. 118](https://en.wikipedia.org/wiki/Six_Pieces_for_Piano,_Op._118_(Brahms)), Johannes Brahms
 * [*Don Quixote*, Op. 35](https://en.wikipedia.org/wiki/Don_Quixote_(Strauss)), Richard Strauss
