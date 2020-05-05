@@ -52,6 +52,6 @@ Without further ado:
 * [*Symphonic Dances, Op. 45*](https://en.wikipedia.org/wiki/Symphonic_Dances_(Rachmaninoff)), Sergei Rachmaninoff
 * [Vier letzte Lieder (Four Last Songs)](https://en.wikipedia.org/wiki/Four_Last_Songs), Richard Strauss
 * [Symphony No. 4 in E minor, Op. 98](https://en.wikipedia.org/wiki/Symphony_No._4_(Brahms)), Johannes Brahms
-* Day 30:???
+* [Polotvsian Dances from *Prince Igor*](https://en.wikipedia.org/wiki/Polovtsian_Dances), Alexander Borodin
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://open.spotify.com/embed/playlist/7ugCpTIic2QPliL35x7Msc' width='300' height='380' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe></div>
