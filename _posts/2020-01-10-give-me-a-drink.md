@@ -5,7 +5,7 @@ title: >
    Give Me a Drink&#58; The Role of Gift-Giving and Wine in The Odyssey
 category: Literature
 tags: [ 'essays', 'writing', 'school', 'literature' ]
-bgimage: '/assets/blog_photos/odysseus1.jpg'
+bgimage: 'https://images.unsplash.com/photo-1562173153-14a0302cac64?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=933&q=80'
 ---
 
 The world of *The Odyssey* is steeped in alcohol: at every meal, there is the expectation of watered-down wine to be served and a toast to the gods to be made. However, Homer's peculiar use of wine on the island of the Cyclops belies a simple interpretation of wine as a means to inebriation, but as a symbol of gift-giving and graciousness. To this end, Homer employs wine as a physical talisman of the Greek custom of guest-friendship, or *xenia*. On the island of the Cyclops, Odysseus recounts two different types of wine from two different sources: one from Ismaros and one from Maron. Homer's seemingly ordinary inclusion of two different wines on the island of Polyphemus reveals the importance of the reciprocal nature of gift-giving in *The Odyssey*.
