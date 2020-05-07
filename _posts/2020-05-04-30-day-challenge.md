@@ -50,7 +50,7 @@ Without further ado:
 * [Piano Quintet in F minor, Op. 34](https://en.wikipedia.org/wiki/Piano_Quintet_(Brahms)), Johannes Brahms
 * [Cello Concerto in E minor, Op. 85](https://en.wikipedia.org/wiki/Cello_Concerto_(Elgar)), Edward Elgar
 * [Piano Trio in C minor, Op. 101](https://en.wikipedia.org/wiki/Piano_Trio_No._3_(Brahms)), Johannes Brahms
-* [*Symphonic Dances, Op. 45*](https://en.wikipedia.org/wiki/Symphonic_Dances_(Rachmaninoff)), Sergei Rachmaninoff
+* [*Symphonic Dances*, Op. 45](https://en.wikipedia.org/wiki/Symphonic_Dances_(Rachmaninoff)), Sergei Rachmaninoff
 * [Vier letzte Lieder (Four Last Songs)](https://en.wikipedia.org/wiki/Four_Last_Songs), Richard Strauss
 * [Symphony No. 4 in E minor, Op. 98](https://en.wikipedia.org/wiki/Symphony_No._4_(Brahms)), Johannes Brahms
 * [Polotvsian Dances from *Prince Igor*](https://en.wikipedia.org/wiki/Polovtsian_Dances), Alexander Borodin
