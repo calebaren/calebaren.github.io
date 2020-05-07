@@ -63,7 +63,7 @@ lines: # You can add HTML Tags in the Text
   # - text: "// python_programmer"
   - text: "// sony_alpha_photographer"
   # - text: "// music_director"
-  # - text: "// data_driven"
+  - text: "// data_driven"
   # - text: "// graphic_designer"
   # - text: "// product_manager"
   # - text: "// swiss_army_knife"
@@ -138,6 +138,10 @@ events:
     date: "December 2018"
     description: "That's A Mood"
     url: "/projects/2018/12/24/thats-a-mood.html"
+  - image: "/img/timeline/coronary.png"
+    date: "April 2020"
+    description: "Generalized Linear Models for Coronary Heart Disease Prediction"
+    url: "/assets/coronary_heart_disease.pdf"
 
 # First image of the Timeline
 
