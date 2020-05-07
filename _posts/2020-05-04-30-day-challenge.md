@@ -7,7 +7,7 @@ tags: [ 'music' , 'quarantine' ]
 bgimage: 'https://images.unsplash.com/photo-1509782642997-4befdc4b21c9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80'
 ---
 
-This is going to be a weirly long post. I recently did a [30-day music challenge](https://www.bustle.com/p/how-to-do-the-30-day-song-challenge-on-instagram-22774509) on my [Facebook](https://facebook.com/calebaren)/[Instagram](https://instagram.com/calebaren) stories. I've never posted this extensively to my stories on any social media platform so I'm pretty darn proud of myself. I also got a lot of feedback about my music choice. 
+This is going to be a weirdly long post. I recently did a [30-day music challenge](https://www.bustle.com/p/how-to-do-the-30-day-song-challenge-on-instagram-22774509) on my [Facebook](https://facebook.com/calebaren)/[Instagram](https://instagram.com/calebaren) stories. I've never posted this extensively to my stories on any social media platform so I'm pretty darn proud of myself. I also got a lot of feedback about my music choice. 
 
 All of the feedback makes me feel a lot of feelings.
 
