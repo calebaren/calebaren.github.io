@@ -146,7 +146,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/start.jpg"
+timeline-img: "https://graph.facebook.com/100001726448577/picture?type=large&width=500&height=500"
 timeline-url: "https://instagram.com/calebaren"
 
 ###########
@@ -232,3 +232,5 @@ sass:
 gems:
   - jekyll-paginate
   - jemoji
+
+plugins: [jekyll-paginate]
