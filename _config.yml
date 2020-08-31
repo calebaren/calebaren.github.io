@@ -60,10 +60,7 @@ lines: # You can add HTML Tags in the Text
   - text: "// statistician"
   - text: "// computer_scientist"
   # - text: "// dimension_reducer"
-  # - text: "// r_programmer"
-  # - text: "// python_programmer"
   - text: "// sony_alpha_photographer"
-  # - text: "// music_director"
   # - text: "// data_driven"
   # - text: "// graphic_designer"
   # - text: "// product_manager"
@@ -127,6 +124,10 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/schedyool.svg"
+    date: "August 2020"
+    description: "Schedyool"
+    url: "https://schedyool.com"
   - image: "/img/timeline/coronary.png"
     date: "April 2020"
     description: "Generalized Linear Models for Coronary Heart Disease Prediction"
