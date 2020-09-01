@@ -124,10 +124,10 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/schedyool.svg"
+  - image: "/img/timeline/schedyool.jpg"
     date: "August 2020"
     description: "Schedyool"
-    url: "https://schedyool.com"
+    url: "https://www.schedyool.com"
   - image: "/img/timeline/coronary.png"
     date: "April 2020"
     description: "Generalized Linear Models for Coronary Heart Disease Prediction"
