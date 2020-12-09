@@ -73,7 +73,7 @@ lines: # You can add HTML Tags in the Text
 # in the end of the url just before '&type' is your user id.
 # Note: fbid is not the same as user id and user id only contains numbers
 
-me-img: "https://graph.facebook.com/100001726448577/picture?type=large&width=500&height=500"
+me-img: "https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s150x150/110023605_309893710203566_2998337712222120763_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=mhjNhcFaCp0AX9V_ync&tp=1&oh=71f128f997b94ba89fa5949186d91f07&oe=5FFBA351"
 
 ##############################
 # Color the browser elements #
@@ -147,7 +147,8 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "https://graph.facebook.com/100001726448577/picture?type=large&width=500&height=500"
+# timeline-img: "https://graph.facebook.com/100001726448577/picture?type=large&width=500&height=500"
+timeline-img: "https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s150x150/110023605_309893710203566_2998337712222120763_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=mhjNhcFaCp0AX9V_ync&tp=1&oh=71f128f997b94ba89fa5949186d91f07&oe=5FFBA351"
 timeline-url: "https://instagram.com/calebaren"
 
 ###########
@@ -166,7 +167,8 @@ email: "calebaren@gmail.com"
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: >
   Caleb is a third-year Harvard College student concentrating in statistics and computer science. Caleb tries to spend as much time with family as possible, extol the virtues of mirrorless cameras to anyone who will listen, read up on dimension reduction techniques, defend the merits of Seattle, and hike.
-author_blurb_image: "https://graph.facebook.com/100001726448577/picture?type=large&width=500&height=500"
+# author_blurb_image: "https://graph.facebook.com/100001726448577/picture?type=large&width=500&height=500"
+author_blurb_image: "https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s150x150/110023605_309893710203566_2998337712222120763_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=mhjNhcFaCp0AX9V_ync&tp=1&oh=71f128f997b94ba89fa5949186d91f07&oe=5FFBA351"
 
 ##################
 # Social Buttons #
