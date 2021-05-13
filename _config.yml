@@ -60,7 +60,7 @@ lines: # You can add HTML Tags in the Text
   - text: "// statistician"
   - text: "// computer_scientist"
   # - text: "// dimension_reducer"
-  - text: "// sony_alpha_photographer"
+  # - text: "// sony_alpha_photographer"
   # - text: "// data_driven"
   # - text: "// graphic_designer"
   # - text: "// product_manager"
@@ -124,6 +124,10 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/elo_glicko.png"
+    date: "April 2021"
+    description: "Elo and Glicko in the National Hockey League"
+    url: "/assets/eloandglicko_finalproject"
   - image: "/img/timeline/thesis.png"
     date: "March 2021"
     description: "Near Duplicate Video Detection"
