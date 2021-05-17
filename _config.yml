@@ -124,6 +124,10 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/shadow_market.png"
+    date: "April 2021"
+    description: "Shadow Market: A Historical Analysis of the Rise of the Private College Counseling Industry"
+    url: "/assets/shadow_market.pdf"
   - image: "/img/timeline/elo_glicko.png"
     date: "April 2021"
     description: "Elo and Glicko in the National Hockey League"
