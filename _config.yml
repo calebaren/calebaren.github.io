@@ -58,7 +58,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "// statistician"
-  - text: "// computer_scientist"
+  - text: "// software_engineer"
   # - text: "// dimension_reducer"
   # - text: "// sony_alpha_photographer"
   # - text: "// data_driven"
