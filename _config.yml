@@ -63,7 +63,7 @@ lines: # You can add HTML Tags in the Text
   # - text: "// sony_alpha_photographer"
   # - text: "// data_driven"
   # - text: "// graphic_designer"
-  # - text: "// product_manager"
+  - text: "// product_manager"
   # - text: "// swiss_army_knife"
   # - text: "// data_scientist"
 
@@ -198,8 +198,8 @@ social:
     url: "mailto:calebaren@gmail.com"
   - title: "linkedin"
     url: "https://linkedin.com/in/calebaren"
-  - title: "behance"
-    url: "https://www.behance.net/calebaren/"
+  # - title: "behance"
+  #   url: "https://www.behance.net/calebaren/"
 
 
 ############
