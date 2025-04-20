@@ -124,10 +124,10 @@ syntax-highlight: True
 ############
 
 events:
-  # - image: "/img/timeline/final_gened_paper.jpg"
-  #   date: "May 2021"
-  #   description: "The Renminbi and the Dollar: The State of the Reserve Currency Debate"
-  #   url: "/assets/final_gened_paper.pdf"
+  - image: "/img/timeline/final_gened_paper.jpg"
+    date: "May 2021"
+    description: "The Renminbi and the Dollar: The State of the Reserve Currency Debate"
+    url: "/assets/final_gened_paper.pdf"
   - image: "/img/timeline/shadow_market.png"
     date: "April 2021"
     description: "Shadow Market: A Historical Analysis of the Rise of the Private College Counseling Industry"
